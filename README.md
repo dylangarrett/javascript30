@@ -18,3 +18,11 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 + Modifying styles with JS
 + Using the setInterval() method
 
+**03 - CSS Variables & JS**
+*Key learnings*
+
++ Using data-vars from HTML attributes and dataset
++ Using :root and CSS variables
++ Using HTML attributes to my advantage
++ document.documentElement to select :root
+
