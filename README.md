@@ -33,3 +33,10 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 + Improved knowledge of ternary operators
 + Improved knowledge of arrow functions
 
+**05 - Flex Panels**
+*Key learnings*
+
++ First time working with flex panels. Very interested in learning more.
++ Good introduction to using toggle to adjust CSS and classes.
++ More event listeners. 
+
