@@ -26,3 +26,10 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 + Using HTML attributes to my advantage
 + document.documentElement to select :root
 
+**04 - Array Cardio Day 1**
+*Key learnings*
+
++ Good refresher of map, sort, reduce etc
++ Improved knowledge of ternary operators
++ Improved knowledge of arrow functions
+
