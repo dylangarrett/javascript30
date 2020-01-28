@@ -36,7 +36,16 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 **05 - Flex Panels**
 *Key learnings*
 
-+ First time working with flex panels. Very interested in learning more.
-+ Good introduction to using toggle to adjust CSS and classes.
-+ More event listeners. 
++ First time working with flex panels. Very interested in learning more
++ Good introduction to using toggle to adjust CSS and classes
++ More event listeners
+
+**06 - Ajax Type Ahead**
+*Key learnings*
+
++ Introduction to promises and the .then method
++ Implementing regular expressions
++ Keyup event listener
++ Putting the map and filter methods into practice
++ Googling the difference between 'practice' and 'practise' as a result of the above learning 
 
