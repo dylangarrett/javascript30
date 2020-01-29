@@ -49,3 +49,10 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 + Putting the map and filter methods into practice
 + Googling the difference between 'practice' and 'practise' as a result of the above learning 
 
+**07 - Array Cardio Day 2**
+*Key learnings*
+
++ Really getting to grips with arrow functions
++ Spreading data into arrays
++ Learned the every() and some() functions
++ Removing items from an array with splice()
