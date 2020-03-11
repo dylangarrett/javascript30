@@ -56,3 +56,40 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 + Spreading data into arrays
 + Learned the every() and some() functions
 + Removing items from an array with splice()
+
+**08 - HTML Canvas**
+*Key learnings*
+
++ Mousedown, mouseup, mouseout event listeners.
++ HTML Canvas
++ CTX attributes and functions
+
+**09 - Dev Tools Domination**
+*Key learnings*
+
++ More uses of the dev tools which I was not aware of.
+
+**10 - Hold & Shift Checkboxes**
+*Key learnings*
+
++ More usage of ternary operators
++ Flipping boolean values: value = !value
+
+**11 - Custom Video Player**
+*Key learnings*
+
++ Video attributes
++ Using several event listeners in tandem. 
++ Passing data-values from HTML into JS Functions.
+
+**12 - Key Sequence Detection**
+*Key learnings*
+
++ Using join to convert an array to a string.
++ Complex splicing to ensure an array never exceeds a certain length.
+
+**13 - Slide in on Scroll**
+*Key learnings*
+
++ Using image attributes and window attributes to establish the position on the page.
++ Adding and removing classes to animate.
