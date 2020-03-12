@@ -93,3 +93,23 @@ Attempting to complete Wes Bos' 30 days of Javascript challenge. I have not used
 
 + Using image attributes and window attributes to establish the position on the page.
 + Adding and removing classes to animate.
+
+**14 - References vs Copying**
+*Key learnings*
+
++ Skipped this as I have covered this topic many times.
+
+**15 - LocalStorage**
+*Key learnings*
+
++ Using local storage to persist data in the browser.
++ Using JSON to stringify and parse data from local storage.
++ Further practise using events and triggers.
+
+**16 - Mouse Move Shadow**
+*Key learnings*
+
++ Adjusting CSS with mouse move event listeners.
++ The Math.round(X) function.
++ Chrome dev tools will not trigger mousemove events in a responsive state as it is operating as if it is a touch screen.
+
